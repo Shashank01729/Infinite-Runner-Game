@@ -11,6 +11,7 @@ public class CoinCollect : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            CoinSound.instance.coinSource.PlayOneShot(CoinSound.instance.coinSound);
             ScoreManager.instance.AddScore(1); 
             Destroy(gameObject); 
         }
