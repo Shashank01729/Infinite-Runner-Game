@@ -1,4 +1,4 @@
-# Cube Collector Game
+# Infinite Cube Runner Game
 
 Cube Collector is a simple 3D game where you control a cube to collect coins while avoiding obstacles. The objective is to collect 15 coins to win. If you touch obstacles or fall off the track, you lose the game. 
 
