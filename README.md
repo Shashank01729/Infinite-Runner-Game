@@ -8,8 +8,8 @@ Cube Collector is a simple 3D game where you control a cube to collect coins whi
 
 
 ## Features
-- **Custom Cursor:** Use the mouse cursor to aim and shoot at alien spaceships.
-- **Score System:** Earn points for each spaceship destroyed.
+- **Custom Cursor:** Use the mouse cursor to navigate.
+- **Score System:** Earn points for collecting coins.
 - **Start Game Button:** Click to start the game and begin playing with background music.
 - **Audio Feedback:** Enjoy immersive gameplay with background music and sound effects for coins collect.
 
